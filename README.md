@@ -10,13 +10,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=6&no-frame=true&no-bg=true" alt="Trophy" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
