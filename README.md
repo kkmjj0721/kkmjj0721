@@ -127,7 +127,7 @@
 
 <div align="center">
   <a href="https://github.com/kkmjj0721">
-    <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1&column=7&v=3" alt="trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1&column=7&v=4&t=1" alt="trophy"/>
   </a>
 </div>
 
