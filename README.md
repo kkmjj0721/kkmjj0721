@@ -2,7 +2,7 @@
   <!-- 顶部极客风动画 (使用Giphy图床，无需注册) -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Hacker GIF">
   
-  <h1>Hi there, I'm <奈奈奈奈奈绪>! 👋</h1>
+  <h1>Hi there, I'm 奈奈奈奈奈绪! 👋</h1>
 
   <!-- 动态打字机副标题 -->
   <a href="https://github.com/kkmjj0721">
@@ -22,7 +22,7 @@
 <!-- 🏆 GitHub 成就奖杯 (自动获取，无需注册) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
 </div>
 
@@ -90,11 +90,8 @@
 
 ---
 
-### 🖼️ My Gallery | 自定义展示区
-
 <!-- 👇 你的自定义图片放在这里 👇 -->
 <div align="center">
-  <p><i>在这里展示我的专属画面</i></p>
   
   <!-- 将下面的 src 链接替换为你想要展示的图片链接 (可以是 .png, .jpg, .gif) -->
   <img src="https://github.com/user-attachments/assets/f1fda1ed-b796-4d90-89b3-894713561f0c" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="My Custom Image" />
