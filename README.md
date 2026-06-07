@@ -1,13 +1,29 @@
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fc1c6e23-7be0-439c-b11c-d7779e60aebb" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/cdf0cc3a-f614-4c93-8850-cf17a19c97d4" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
-  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-  <a href="你的知乎或B站链接"><img src="https://img.shields.io/badge/Bilibili-F72585?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-  <a href="你的个人博客链接"><img src="https://img.shields.io/badge/Blog-F72585?style=for-the-badge&logo=readme&logoColor=white" /></a>
+  <br/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=【此处替换：你的名字或昵称】;C%2B%2B+%26+Python+Developer;ROS2+%26+Robotics+Engineer;STM32+Embedded+Developer;Reinforcement+Learning" alt="Typing SVG" />
+  </a>
 </div>
+
+<div align="center">
+  <a href="mailto:【此处替换：你的邮箱地址】"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+  <a href="【此处替换：你的知乎或B站链接】"><img src="https://img.shields.io/badge/Bilibili-F72585?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="【此处替换：你的个人博客或项目链接】"><img src="https://img.shields.io/badge/Blog-F72585?style=for-the-badge&logo=readme&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=【此处替换：你的GitHub账号名】&theme=radical&row=1&column=6&no-frame=true&no-bg=true" alt="Trophy" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <h3>⚡ 技术栈 & 个性标签</h3>
@@ -25,6 +41,11 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=【此处替换：你的GitHub账号名】&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=【此处替换：你的GitHub账号名】&theme=radical&hide_border=true" width="48%" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -33,4 +54,13 @@
 
 <br/>
 
+<div align="center" style="margin-top: 20px;">
+  <p align="center" style="color: #F72585; font-weight: bold;">"Talk is cheap. Show me the code."</p>
+  <img src="【此处替换：底部半透明大屏图片的链接】" width="100%" style="opacity: 0.5; border-radius: 10px;" alt="Background layer" />
+</div>
+
 <br/>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/【此处替换：你的GitHub账号名】/count.svg" />
+</div>
