@@ -69,7 +69,6 @@
 <img src="https://img.shields.io/badge/C++-DEB887?style=flat-square&logo=cplusplus&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Python-DEB887?style=flat-square&logo=python&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/ROS-DEB887?style=flat-square&logo=ros&logoColor=6B4423"/>
-<img src="https://img.shields.io/badge/MATLAB-DEB887?style=flat-square&logo=mathworks&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Mujoco-C9A87C?style=flat-square&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Isaac%20Gym-C9A87C?style=flat-square&logo=nvidia&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Gazebo-C9A87C?style=flat-square&logoColor=6B4423"/>
