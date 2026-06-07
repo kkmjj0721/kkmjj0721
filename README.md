@@ -1,70 +1,239 @@
-<div align="center">
-  <img width="1280" height="536" alt="6251361f897ca13af6a9e5e48bb8df17_720" src="https://github.com/user-attachments/assets/bd6030fe-5eb5-4125-956f-27f8c42078cb" />
-</div>
+<!--
+  GitHub Profile README · 奶油色调 · Robotics Edition
+  User: kkmjj0721
+  使用方法:
+    1. 在 GitHub 新建一个与你用户名同名的仓库: kkmjj0721/kkmjj0721
+    2. 把本文件作为 README.md 上传到该仓库根目录
+    3. 顶部 banner 图建议替换为自己截图 (assets/banner.png) -- 见 [BANNER] 注释处
+-->
+
+<!-- ============ 顶部横幅 ============ -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%AA%20Hi%2C%20I'm%20kkmjj0721-Learning%20Robotics%20Control%20%F0%9F%A5%AA-bfa668?style=for-the-badge&labelColor=fdfbf7" width="100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAF3E0,50:DEB887,100:C9A87C&height=200&section=header&text=Welcome%20to%20my%20Lab&fontSize=46&fontColor=6B4423&animation=fadeIn&fontAlignY=38&desc=Quadruped%20·%20Manipulator%20·%20Control&descAlignY=60&descSize=18" width="100%"/>
+
+<!-- ============ 打字机动效 ============ -->
+<a href="https://github.com/kkmjj0721">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C9A87C&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%8D%AE+Hi+there%2C+I'm+kkmjj0721;%F0%9F%90%95+Quadruped+Robot+Researcher;%F0%9F%A6%BE+Robotic+Arm+%26+Manipulation;%E2%9A%99%EF%B8%8F+Control+%7C+Trajectory+%7C+Locomotion" alt="Typing SVG"/>
+</a>
+
+<!-- 徽章组 -->
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kkmjj0721&label=Profile%20views&color=DEB887&style=flat-square" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/kkmjj0721?label=Followers&style=flat-square&color=DEB887&labelColor=FAF3E0" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/kkmjj0721?label=Stars&style=flat-square&color=C9A87C&labelColor=FAF3E0" alt="stars"/>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-6B4423?style=flat-square&logo=gmail&logoColor=FAF3E0" alt="email"/></a>
+</p>
+
+
 </div>
+
+<!-- ============ 关于我 ============ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+
+```yaml
+👋 name      : kkmjj0721
+🤖 role      : Robotics Engineer / Researcher
+🎯 focus     : [ Quadruped Locomotion, Manipulator Control, Whole-Body MPC ]
+🛠️ working   : Stair-Jumping Gait Tuning · Pose-Adjustment · FlightFold
+🧠 learning  : Reinforcement Learning · Sim-to-Real Transfer
+💬 ask me    : ROS / Isaac Gym / Mujoco / Trajectory Optimization
+📫 reach     : your_email@example.com
+🍮 motto     : "Make robots move like cream — smooth and warm."
+```
+
+<!--
+  把右侧横幅图换成你自己的实验室/机器人照片或渲染图,可用以下推荐尺寸:
+  1280 × 320 px, 放到仓库 assets/banner.png
+-->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/main/assets/banner.png" width="92%" onerror="this.style.display='none'"/>
+</div>
+
 
 <br/>
 
-## 🎯 About Me
+<!-- ============ 三栏布局: Projects / Tech Stack / Find me ============ -->
 
-> 💡 **"只要不放弃，就算是仿真里的小车也能学会直行！"**
->
-> 我是 **kkmj0721**，一只正在向机器人控制领域艰难爬行的初学者。目前处于“和编译器斗智斗勇，和仿真环境相依为命”的阶段。
+<table align="center" width="100%" style="border:none;">
+<tr style="border:none;">
 
-* 🔧 **研习领域**：具身智能的皮毛 / 尝试让机械臂听话
-* 🛠️ **正在闭关**：疯狂补习 `ROS 2` 通信机制，试图看懂强化学习的各种奖励函数
-* 💻 **Debug 现状**：代码一跑，报错不少；查完文档，原地复活 🔃
-* 🏆 **近期小目标**：早日跑通第一个不摔倒的四足小狗仿真！
 
----
+<!-- ===== Column 1: Projects & Impact ===== -->
+<td valign="top" width="33%" style="border:none;">
 
-## 🛠️ Tech Stack & Tools
+### 🦾 Projects & Impact
 
-### 💻 编程与框架
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+- 🐕 **Quadruped Stair-Jump**  
+  &nbsp;&nbsp;Trajectory + Pose Adjust tuning
+- 🤖 **6-DoF Manipulator**  
+  &nbsp;&nbsp;Whole-body MPC pipeline
+- 🦿 **FlightFold Gait**  
+  &nbsp;&nbsp;Aerial-phase leg retraction
+- 📐 **Sim-to-Real**  
+  &nbsp;&nbsp;Isaac Gym → Real robot
+
+</td>
+
+<!-- ===== Column 2: Tech Stack & Tools ===== -->
+<td valign="top" width="34%" style="border:none;">
+
+### 🛠️ Tech Stack & Tools
+
+<p>
+<img src="https://img.shields.io/badge/C++-DEB887?style=flat-square&logo=cplusplus&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/Python-DEB887?style=flat-square&logo=python&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/ROS-DEB887?style=flat-square&logo=ros&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/MATLAB-DEB887?style=flat-square&logo=mathworks&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/Mujoco-C9A87C?style=flat-square&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/Isaac%20Gym-C9A87C?style=flat-square&logo=nvidia&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/Gazebo-C9A87C?style=flat-square&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/Linux-C9A87C?style=flat-square&logo=linux&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/Git-FAEBD7?style=flat-square&logo=git&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/Docker-FAEBD7?style=flat-square&logo=docker&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/PyTorch-FAEBD7?style=flat-square&logo=pytorch&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/CMake-FAEBD7?style=flat-square&logo=cmake&logoColor=6B4423"/>
 </p>
 
-### 🌐 仿真与环境
-<p align="left">
-  <img src="https://img.shields.io/badge/MuJoCo-🎯-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gazebo-🔥-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
 
----
+</td>
 
-## 📂 个人作品集 (Portfolio)
+<!-- ===== Column 3: Find me online ===== -->
+<td valign="top" width="33%" style="border:none;">
 
-* 📝 [Learning-Notes](https://github.com/kkmjj0721) — 我的机器人与强化学习踩坑笔记
-* 🤖 [Simulation-Labs](https://github.com/kkmjj0721) — 仿真环境搭建与基础算法练习
-* 🛠️ [ROS2-Toys](https://github.com/kkmjj0721) — 一些刚开始跑的 ROS 2 小节点与通信测试
+### 🌐 Find Me Online
 
----
+- <img src="https://cdn.simpleicons.org/github/6B4423" width="14"/> [github.com/kkmjj0721](https://github.com/kkmjj0721)
+- <img src="https://cdn.simpleicons.org/gmail/6B4423" width="14"/> your_email@example.com
+- <img src="https://cdn.simpleicons.org/zhihu/6B4423" width="14"/> 知乎: 待填
+- <img src="https://cdn.simpleicons.org/bilibili/6B4423" width="14"/> B 站: 待填
+- 🍮 *Currently learning:*  
+  &nbsp;&nbsp;Sim-to-Real RL
 
-## 📈 My GitHub Green Wall
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ GitHub 数据统计 ============ -->
+
+## <img src="https://media.giphy.com/media/SWN9ldwiOgC4y1IhSI/giphy.gif" width="28"/> GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/kkmjj0721">
-    <img src="https://ghchart.rshah.org/bfa668/kkmj0721" alt="kkmjj0721's Yellow-Gold Contribution Chart" width="100%" />
-  </a>
+
+
+<!-- 主统计卡 + 连续提交 -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kkmjj0721&show_icons=true&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kkmjj0721&hide_border=true&background=FAF3E0&stroke=DEB887&ring=C9A87C&fire=DEB887&currStreakNum=6B4423&sideNums=6B4423&currStreakLabel=C9A87C&sideLabels=6B4423&dates=8C7853" />
+
+<!-- 语言占比 + 生产力 -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&hide_border=true&title_color=C9A87C&text_color=6B4423&bg_color=FAF3E0&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=kkmjj0721&hide_border=true&title_color=C9A87C&text_color=6B4423&bg_color=FAF3E0&icon_color=DEB887&layout=compact" />
+
 </div>
 
----
+<!-- ============ 奖杯墙 ============ -->
 
-## 📬 Contact
-
-<p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25px"/></a>
-  <a href="mailto:your_email@example.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25px"/></a>
-</p>
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> Trophy Wall
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkmjj0721&color=bfa668&style=flat-square&label=HELLO+WORLD" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </div>
+
+
+<!-- ============ 贡献活动图 (折线) ============ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmjj0721&bg_color=FAF3E0&color=6B4423&line=C9A87C&point=DEB887&area=true&area_color=DEB887&hide_border=true&custom_title=Contribution%20Heartbeat" width="96%"/>
+</div>
+
+
+<!-- ============ 贡献蛇 ============ -->
+
+<div align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/output/github-contribution-grid-snake.svg" width="96%"/>
+</div>
+
+
+<!--
+  贡献蛇需要在仓库里加一个 GitHub Actions:
+  .github/workflows/snake.yml  内容见本文件末尾说明
+-->
+
+<!-- ============ 置顶仓库 / Top Repositories ============ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> Top Repositories
+
+<div align="center">
+<a href="https://github.com/kkmjj0721">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkmjj0721&repo=REPO_NAME_1&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0"/>
+</a>
+<a href="https://github.com/kkmjj0721">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkmjj0721&repo=REPO_NAME_2&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0"/>
+</a>
+</div>
+
+
+<!--
+  把 REPO_NAME_1 / REPO_NAME_2 换成你自己的两个仓库名,会自动渲染成卡片.
+-->
+
+<!-- ============ 名言警句 / Quote ============ -->
+
+## <img src="https://media.giphy.com/media/VgGQwJ2gYHID5NJWeM/giphy.gif" width="28"/> Daily Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="80%"/>
+</div>
+
+
+<!-- ============ 底部 wave ============ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A87C,50:DEB887,100:FAF3E0&height=130&section=footer&text=Thanks%20for%20visiting!%20🍮&fontSize=22&fontColor=6B4423&animation=fadeIn"/>
+</div>
+
+
+<!--
+================================================================
+
+   附加: 贡献蛇 GitHub Actions 工作流
+================================================================
+
+   创建文件:  .github/workflows/snake.yml
+   内容如下 (去掉这一段的最外层注释再粘贴):
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kkmjj0721
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#C9A87C&color_dots=#FAF3E0,#FFE4B5,#DEB887,#C9A87C,#6B4423
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+================================================================
+
+-->
