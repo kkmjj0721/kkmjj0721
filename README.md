@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- 新增：金黄色系的小奖杯墙组件，记录你的每一个小成就 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kkmj0721&theme=warm&column=7&margin-w=5&margin-h=5&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=warm&column=7&margin-w=5&margin-h=5&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -51,17 +51,17 @@
 
 <div align="center">
   <!-- 核心数据统计图（已调整为优雅的米白+金黄配色） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kkmj0721&show_icons=true&bg_color=fdfbf7&title_color=bfa668&text_color=57606a&icon_color=f4be41&border_color=ebdcb9&hide_border=false&count_private=true" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkmjj0721&show_icons=true&bg_color=fdfbf7&title_color=bfa668&text_color=57606a&icon_color=f4be41&border_color=ebdcb9&hide_border=false&count_private=true" alt="GitHub Stats" height="150px" />
   &nbsp;&nbsp;
   <!-- 语言占比统计图 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmj0721&layout=compact&bg_color=fdfbf7&title_color=bfa668&text_color=57606a&border_color=ebdcb9&hide_border=false" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&bg_color=fdfbf7&title_color=bfa668&text_color=57606a&border_color=ebdcb9&hide_border=false" alt="Top Languages" height="150px" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- 新增：实时动态活动看板（让别人一眼看到你最近更新了哪个仓库） -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmj0721&theme=github-light&bg_color=fdfbf7&color=bfa668&line=bfa668&point=f4be41&area=true&hide_border=false" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmjj0721&theme=github-light&bg_color=fdfbf7&color=bfa668&line=bfa668&point=f4be41&area=true&hide_border=false" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
@@ -70,10 +70,10 @@
 
 <p align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25px"/></a>
-  <a href="mailto:your_email@example.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25px"/></a>
+  <a href="mailto:2171670754@qq.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25px"/></a>
 </p>
 
 <div align="center">
   <!-- 访客计数器（金色扁平款） -->
-  <img src="https://komarev.com/ghpvc/?username=kkmj0721&color=bfa668&style=flat-square&label=HELLO+WORLD" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kkmjj0721&color=bfa668&style=flat-square&label=HELLO+WORLD" alt="Profile Views" />
 </div>
