@@ -109,7 +109,7 @@
 ### 🌐 Find Me Online
 
 - <img src="https://cdn.simpleicons.org/github/6B4423" width="14"/> [github.com/kkmjj0721](https://github.com/kkmjj0721)
-- <img src="https://cdn.simpleicons.org/gmail/6B4423" width="14"/> your_email@example.com
+- <img src="https://cdn.simpleicons.org/gmail/6B4423" width="14"/> 2171670754@qq.com
 - <img src="https://cdn.simpleicons.org/bilibili/6B4423" width="14"/> B 站: 453043662
 - 🍮 *Currently learning:*  
   &nbsp;&nbsp;Sim-to-Real RL
