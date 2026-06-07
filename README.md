@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=kkmjj0721&label=Profile%20views&color=DEB887&style=flat-square" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/kkmjj0721?label=Followers&style=flat-square&color=DEB887&labelColor=FAF3E0" alt="followers"/>
   <img src="https://img.shields.io/github/stars/kkmjj0721?label=Stars&style=flat-square&color=C9A87C&labelColor=FAF3E0" alt="stars"/>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-6B4423?style=flat-square&logo=gmail&logoColor=FAF3E0" alt="email"/></a>
+  <a href="mailto:2171670754@qq.com"><img src="https://img.shields.io/badge/Email-6B4423?style=flat-square&logo=gmail&logoColor=FAF3E0" alt="email"/></a>
 </p>
 
 
