@@ -101,24 +101,8 @@
 <table width="92%">
 <tr><th align="left" width="38%">作品名</th><th align="left">作品链接</th></tr>
 <tr>
-  <td>🐕 <b>四足楼梯跳跃 Stair-Jump</b></td>
+  <td>🐕 <b>四足机器人强化学习 sim2sim sim2real</b></td>
   <td><a href="https://github.com/kkmjj0721">https://github.com/kkmjj0721</a></td>
-</tr>
-<tr>
-  <td>🤖 <b>六自由度机械臂 Whole-Body MPC</b></td>
-  <td><a href="https://github.com/kkmjj0721">https://github.com/kkmjj0721</a></td>
-</tr>
-<tr>
-  <td>🦿 <b>FlightFold 腾空收腿步态</b></td>
- <td><a href="https://github.com/kkmjj0721">https://github.com/kkmjj0721</a></td>
-</tr>
-<tr>
-  <td>📐 <b>Sim-to-Real (Isaac Gym → 实物)</b></td>
-  <td><a href="https://github.com/kkmjj0721">https://github.com/kkmjj0721</a></td>
-</tr>
-<tr>
-  <td>📺 <b>B 站演示合集</b></td>
-  <td><a href="https://space.bilibili.com/453043662">https://space.bilibili.com/453043662</a></td>
 </tr>
 </table>
 
