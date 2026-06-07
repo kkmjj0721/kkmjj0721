@@ -173,10 +173,10 @@
 
 <div align="center">
 <a href="https://github.com/kkmjj0721">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkmjj0721&repo=REPO_NAME_1&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkmjj0721&repo=ros2_control_6_dof_arm_rcm_control&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0"/>
 </a>
 <a href="https://github.com/kkmjj0721">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkmjj0721&repo=REPO_NAME_2&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kkmjj0721&repo=my_himloco&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0"/>
 </a>
 </div>
 
