@@ -16,7 +16,7 @@
 
 <!-- ============ 打字机动效 ============ -->
 <a href="https://github.com/kkmjj0721">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C9A87C&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%8D%AE+Hi+there%2C+I'm+奈奈奈奈奈绪;%F0%9F%90%95+Quadruped+Robot+Researcher;%F0%9F%A6%BE+Robotic+Arm+%26+Manipulation;%E2%9A%99%EF%B8%8F+Control+%7C+Trajectory+%7C+Locomotion" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C9A87C&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%8D%AE+Hi+there%2C+I'm+kkmjj0721;%F0%9F%90%95+Quadruped+Robot+Researcher;%F0%9F%A6%BE+Robotic+Arm+%26+Manipulation;%E2%9A%99%EF%B8%8F+Control+%7C+Trajectory+%7C+Locomotion" alt="Typing SVG"/>
 </a>
 
 <!-- 徽章组 -->
