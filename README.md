@@ -127,9 +127,8 @@
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <!-- 奖杯墙必须用它原本的接口，不能用 readme-stats 的接口 -->
   <a href="https://github.com/kkmjj0721">
-    <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1&column=7&v=5" alt="trophy"/>
+    <img src="https://github-profile-trophy-five-lovat.vercel.app/?username=kkmjj0721&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1&column=7&v=7" alt="trophy"/>
   </a>
 </div>
 
