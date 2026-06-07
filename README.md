@@ -9,9 +9,6 @@
   <a href="你的个人博客链接"><img src="https://img.shields.io/badge/Blog-F72585?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </div>
 
-<br/>
-<br/>
-
 <div align="center">
   <h3>⚡ 技术栈 & 个性标签</h3>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
