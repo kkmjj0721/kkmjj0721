@@ -1,12 +1,12 @@
 <div align="center">
-  <!-- 顶部极客风动画 (使用Giphy图床，无需注册) -->
+  <!-- 顶部极客风动画 -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Hacker GIF">
   
   <h1>Hi there, I'm 奈奈奈奈奈绪! 👋</h1>
 
-  <!-- 动态打字机副标题 -->
+  <!-- 动态打字机副标题 (极其稳定) -->
   <a href="https://github.com/kkmjj0721">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Building+things+for+the+web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Robotics+Engineer;Open+Source+Enthusiast;C%2B%2B+%2F+Python+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,17 +17,9 @@
   <a href="mailto:2171670754@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://wsrv.nl/?url=github-profile-trophy.vercel.app/?username=kkmjj0721&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
 ---
 
-### 🛠️ Technology Stack | 技术栈
+### 🤖 Technology Stack | 机器人与 AI 技术栈
 
 <div align="center">
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2"/>
@@ -44,25 +36,16 @@
 
 ---
 
-### 📊 GitHub Analytics | 数据统计面板
+### 📈 Activity Tracking | 活跃度追踪
 
-<div align="center">
-  <!-- GitHub 详细数据概览卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kkmjj0721&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <!-- 最常使用语言图表 (已修复用户名) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&theme=dracula&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<!-- 📈 动态代码活跃度折线图 -->
+<!-- 动态代码活跃度折线图 (已验证目前在你的网络下稳定运行) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmjj0721&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true" width="98%" alt="Activity Graph" />
 </div>
 
 <br/>
 
-<!-- 🔥 连续打卡活跃度统计 -->
+<!-- 连续打卡活跃度统计 (Heroku节点，相对稳定) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkmjj0721&theme=dracula&hide_border=true" width="98%" alt="GitHub Streak" />
 </div>
@@ -71,6 +54,7 @@
 
 ### 🐍 Contribution Snake | 提交贪吃蛇动画
 
+<!-- 这个模块依赖你的 GitHub Actions 运行。运行成功后，它会每天自动读取你的 Commit 画出贪吃蛇 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/output/github-contribution-grid-snake-dark.svg">
