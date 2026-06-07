@@ -104,7 +104,6 @@
 
 <div align="center">
 
-
 <!-- 主统计卡 + 连续提交 -->
 <a href="https://github.com/kkmjj0721">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kkmjj0721&show_icons=true&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0&include_all_commits=true&count_private=true&cache_seconds=1800&v=3" alt="kkmjj0721 GitHub stats"/>
@@ -150,7 +149,6 @@
 
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A87C,50:DEB887,100:FAF3E0&height=130&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%8D%AE&fontSize=22&fontColor=6B4423&animation=fadeIn" width="100%" alt="footer"/>
 
 </div>
@@ -169,7 +167,6 @@
      2. 强制刷新 (Ctrl+F5 或者在 URL 后加 ?v=2 这种 query 强制 camo 重新拉)
      3. 把图片本地化: 用 https://github.com/svg-image-dl 之类工具
         把 SVG 下载到 assets/ 文件夹,然后改成相对路径
-
 
 ================================================================
 -->
