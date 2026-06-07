@@ -2,7 +2,6 @@
   <!-- 这里放你的顶部大图。我先用了一张赛博风格的占位图。
        你可以直接把你想用的图片（比如图2那种二次元图片）拖拽到 GitHub 的任何输入框里，
        它会生成一个以 https://github.com/user-attachments/ 开头的链接，替换掉下面的 src 即可 -->
-  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
