@@ -83,15 +83,6 @@
 
 ---
 
-### 💡 Daily Quote | 极客每日一句
-
-<!-- 📖 随机编程名言小工具 (新增) -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Quote" />
-</div>
-
-<br/>
-
 <!-- 底部访客统计 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Visitor Count" />
@@ -106,6 +97,6 @@
   <p><i>在这里展示我的专属画面</i></p>
   
   <!-- 将下面的 src 链接替换为你想要展示的图片链接 (可以是 .png, .jpg, .gif) -->
-  <img src="https://github.com/user-attachments/assets/f1fda1ed-b796-4d90-89b3-894713561f0c"" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="My Custom Image" />
+  <img src="https://github.com/user-attachments/assets/f1fda1ed-b796-4d90-89b3-894713561f0c" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="My Custom Image" />
 
 </div>
