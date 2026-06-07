@@ -154,13 +154,6 @@
 
 -->
 
-
-<!-- ============ 名言警句 ============ -->
-
-## 💭 Daily Quote
-
-> *"In robotics, the hard problem is not making it move — it's making it move like it means it."*
-
 <!-- ============ 底部 wave ============ -->
 
 <div align="center">
