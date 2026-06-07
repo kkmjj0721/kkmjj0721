@@ -82,13 +82,6 @@
 
 ---
 
-<!-- 底部访客统计 (已修复用户名) -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkmjj0721&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Visitor Count" />
-</div>
-
----
-
 <!-- 👇 你的自定义图片 👇 -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f1fda1ed-b796-4d90-89b3-894713561f0c" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="My Custom Image" />
