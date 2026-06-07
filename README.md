@@ -32,7 +32,6 @@
 🧠 learning  : Reinforcement Learning · Sim-to-Real Transfer
 💬 ask me    : ROS / Isaac Gym / Mujoco / Trajectory Optimization
 📫 reach     : 2171670754@qq.com
-🍮 motto     : "Make robots move like cream — smooth and warm."
 ```
 
 <br/>
