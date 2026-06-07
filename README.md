@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/fdfbf7/bfa668?text=Hey+there!+I%27m+Alexandra!" alt="Profile Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/a9617daa-dcec-42c7-9d9b-d7782d5ec169" alt="Profile Banner" width="100%" style="border-radius: 8px;" />
 </div>
 
 <h1 align="center">👋 Hey there! I'm Alexandra!</h1>
