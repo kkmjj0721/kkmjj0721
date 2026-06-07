@@ -109,14 +109,14 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kkmjj0721&show_icons=true&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0&include_all_commits=true&count_private=true&cache_seconds=1800&v=3" alt="kkmjj0721 GitHub stats"/>
 </a>
 <a href="https://github.com/kkmjj0721">
-  <img height="170" src="https://streak-stats.demolab.com/?user=kkmjj0721&hide_border=true&background=FAF3E0&stroke=DEB887&ring=C9A87C&fire=DEB887&currStreakNum=6B4423&sideNums=6B4423&currStreakLabel=C9A87C&sideLabels=6B4423&dates=8C7853" alt="streak"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=kkmjj0721&hide_border=true&background=FAF3E0&stroke=DEB887&ring=C9A87C&fire=DEB887&currStreakNum=6B4423&sideNums=6B4423&currStreakLabel=C9A87C&sideLabels=6B4423&dates=8C7853&v=3" alt="streak"/>
 </a>
 
 <br/>
 
 <!-- 语言占比 -->
 <a href="https://github.com/kkmjj0721">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&hide_border=true&title_color=C9A87C&text_color=6B4423&bg_color=FAF3E0&langs_count=8&cache_seconds=1800&v=3" alt="top-langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&hide_border=true&title_color=C9A87C&text_color=6B4423&bg_color=FAF3E0&langs_count=8&cache_seconds=1800&v=4" alt="top-langs"/>
 </a>
 
 </div>
