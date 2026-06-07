@@ -41,11 +41,6 @@
 
 <br/>
 
-<div align="center" style="margin-top: 20px;">
-  <p align="center" style="color: #F72585; font-weight: bold;">"Talk is cheap. Show me the code."</p>
-  <img src="https://images.unsplash.com/photo-1515630278258-407f66498911?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" width="100%" style="opacity: 0.5; border-radius: 10px;" alt="Background layer" />
-</div>
-
 <br/>
 
 <div align="center">
