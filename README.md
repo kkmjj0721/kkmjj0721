@@ -36,13 +36,13 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
 ```yaml
-👋 name      : kkmjj0721
+👋 name      : 奈奈奈奈奈绪
 🤖 role      : Robotics Engineer / Researcher
 🎯 focus     : [ Quadruped Locomotion, Manipulator Control, Whole-Body MPC ]
 🛠️ working   : Stair-Jumping Gait Tuning · Pose-Adjustment · FlightFold
 🧠 learning  : Reinforcement Learning · Sim-to-Real Transfer
 💬 ask me    : ROS / Isaac Gym / Mujoco / Trajectory Optimization
-📫 reach     : your_email@example.com
+📫 reach     : 2171670754@qq.com
 🍮 motto     : "Make robots move like cream — smooth and warm."
 ```
 
