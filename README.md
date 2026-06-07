@@ -104,19 +104,20 @@
 
 <div align="center">
 
-<!-- 主统计卡 + 连续提交 -->
+<!-- 主统计卡 (已替换为您自己部署的 Vercel 专属正式域名) -->
 <a href="https://github.com/kkmjj0721">
-  <img height="170" src="https://github-readme-stats-n9020ukat-kkmjj0721s-projects.vercel.app/api?username=kkmjj0721&show_icons=true&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0&include_all_commits=true&count_private=true&cache_seconds=1800&v=4" alt="kkmjj0721 GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-theta-khaki-21.vercel.app/api?username=kkmjj0721&show_icons=true&hide_border=true&title_color=C9A87C&icon_color=DEB887&text_color=6B4423&bg_color=FAF3E0&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" alt="kkmjj0721 GitHub stats"/>
 </a>
+<!-- 连续提交 (保持原样) -->
 <a href="https://github.com/kkmjj0721">
   <img height="170" src="https://streak-stats.demolab.com/?user=kkmjj0721&hide_border=true&background=FAF3E0&stroke=DEB887&ring=C9A87C&fire=DEB887&currStreakNum=6B4423&sideNums=6B4423&currStreakLabel=C9A87C&sideLabels=6B4423&dates=8C7853" alt="streak"/>
 </a>
 
 <br/>
 
-<!-- 语言占比 -->
+<!-- 语言占比 (已替换为您自己部署的 Vercel 专属正式域名) -->
 <a href="https://github.com/kkmjj0721">
-  <img height="170" src="https://github-readme-stats-n9020ukat-kkmjj0721s-projects.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&hide_border=true&title_color=C9A87C&text_color=6B4423&bg_color=FAF3E0&langs_count=8&cache_seconds=1800&v=4" alt="top-langs"/>
+  <img height="170" src="https://github-readme-stats-theta-khaki-21.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&hide_border=true&title_color=C9A87C&text_color=6B4423&bg_color=FAF3E0&langs_count=8&cache_seconds=1800&v=5" alt="top-langs"/>
 </a>
 
 </div>
@@ -126,8 +127,9 @@
 ## 🏆 Trophy Wall
 
 <div align="center">
+  <!-- 奖杯墙必须用它原本的接口，不能用 readme-stats 的接口 -->
   <a href="https://github.com/kkmjj0721">
-    <img src="https://github-readme-stats-n9020ukat-kkmjj0721s-projects.vercel.app/?username=kkmjj0721&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1&column=7&v=4&t=1" alt="trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1&column=7&v=5" alt="trophy"/>
   </a>
 </div>
 
@@ -137,7 +139,8 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats-n9020ukat-kkmjj0721s-projects.vercel.app/graph?username=kkmjj0721&bg_color=FAF3E0&color=6B4423&line=C9A87C&point=DEB887&area=true&area_color=DEB887&hide_border=true&custom_title=Contribution%20Heartbeat" width="96%" alt="activity"/>
+  <!-- 折线图也必须用它原本的接口 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmjj0721&bg_color=FAF3E0&color=6B4423&line=C9A87C&point=DEB887&area=true&area_color=DEB887&hide_border=true&custom_title=Contribution%20Heartbeat" width="96%" alt="activity"/>
 </div>
 
 <div align="center">
