@@ -185,15 +185,6 @@
   把 REPO_NAME_1 / REPO_NAME_2 换成你自己的两个仓库名,会自动渲染成卡片.
 -->
 
-<!-- ============ 名言警句 / Quote ============ -->
-
-## <img src="https://media.giphy.com/media/VgGQwJ2gYHID5NJWeM/giphy.gif" width="28"/> Daily Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="80%"/>
-</div>
-
-
 <!-- ============ 底部 wave ============ -->
 
 <div align="center">
