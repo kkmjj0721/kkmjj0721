@@ -14,12 +14,12 @@
 
 <!-- 社交媒体与联系方式徽章 -->
 <div align="center">
-  <a href="2171670754@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:2171670754@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
 
-<!-- 🏆 GitHub 成就奖杯 (自动获取，无需注册) -->
+<!-- 🏆 GitHub 成就奖杯 -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
@@ -50,20 +50,20 @@
 <div align="center">
   <!-- GitHub 详细数据概览卡片 -->
   <img src="https://github-readme-stats.vercel.app/api?username=kkmjj0721&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <!-- 最常使用语言图表 -->
+  <!-- 最常使用语言图表 (已修复用户名) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
-<!-- 📈 动态代码活跃度折线图 (新增，使用 Dracula 主题色) -->
+<!-- 📈 动态代码活跃度折线图 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmjj0721&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true" width="98%" alt="Activity Graph" />
 </div>
 
 <br/>
 
-<!-- 🔥 连续打卡活跃度统计 (新增) -->
+<!-- 🔥 连续打卡活跃度统计 -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkmjj0721&theme=dracula&hide_border=true" width="98%" alt="GitHub Streak" />
 </div>
@@ -72,7 +72,6 @@
 
 ### 🐍 Contribution Snake | 提交贪吃蛇动画
 
-<!-- 这个虽然不用注册第三方，但需要在你自己的仓库里配置 GitHub Actions 才能生成图片 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/output/github-contribution-grid-snake-dark.svg">
@@ -83,17 +82,14 @@
 
 ---
 
-<!-- 底部访客统计 -->
+<!-- 底部访客统计 (已修复用户名) -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kkmjj0721&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Visitor Count" />
 </div>
 
 ---
 
-<!-- 👇 你的自定义图片放在这里 👇 -->
+<!-- 👇 你的自定义图片 👇 -->
 <div align="center">
-  
-  <!-- 将下面的 src 链接替换为你想要展示的图片链接 (可以是 .png, .jpg, .gif) -->
   <img src="https://github.com/user-attachments/assets/f1fda1ed-b796-4d90-89b3-894713561f0c" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="My Custom Image" />
-
 </div>
