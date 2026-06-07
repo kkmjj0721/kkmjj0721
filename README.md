@@ -102,7 +102,7 @@
 <tr><th align="left" width="38%">作品名</th><th align="left">作品链接</th></tr>
 <tr>
   <td>🐕 <b>四足机器人强化学习 sim2sim sim2real</b></td>
-  <td><a href="https://github.com/kkmjj0721">https://github.com/kkmjj0721</a></td>
+  <td><a href="https://github.com/kkmjj0721/my_himloco">my_himloco</a></td>
 </tr>
 <tr>
   <td>🐕 <b>六轴机械臂 重力补偿+阻抗控制+RCM </b></td>
