@@ -25,7 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=kkmjj0721&label=Profile%20views&color=DEB887&style=flat-square" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/kkmjj0721?label=Followers&style=flat-square&color=DEB887&labelColor=FAF3E0" alt="followers"/>
   <img src="https://img.shields.io/github/stars/kkmjj0721?label=Stars&style=flat-square&color=C9A87C&labelColor=FAF3E0" alt="stars"/>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-6B4423?style=flat-square&logo=gmail&logoColor=FAF3E0" alt="email"/></a>
+  <a href="mailto:2171670754@qq.com"><img src="https://img.shields.io/badge/Email-6B4423?style=flat-square&logo=gmail&logoColor=FAF3E0" alt="email"/></a>
 </p>
 
 
@@ -110,8 +110,7 @@
 
 - <img src="https://cdn.simpleicons.org/github/6B4423" width="14"/> [github.com/kkmjj0721](https://github.com/kkmjj0721)
 - <img src="https://cdn.simpleicons.org/gmail/6B4423" width="14"/> your_email@example.com
-- <img src="https://cdn.simpleicons.org/zhihu/6B4423" width="14"/> 知乎: 待填
-- <img src="https://cdn.simpleicons.org/bilibili/6B4423" width="14"/> B 站: 待填
+- <img src="https://cdn.simpleicons.org/bilibili/6B4423" width="14"/> B 站: 453043662
 - 🍮 *Currently learning:*  
   &nbsp;&nbsp;Sim-to-Real RL
 
