@@ -106,7 +106,7 @@
 </tr>
 <tr>
   <td>🐕 <b>六轴机械臂 重力补偿+阻抗控制+RCM </b></td>
-  <td><a href="https://github.com/kkmjj0721/ros2_control_6_dof_arm_rcm_control.git">https://github.com/kkmjj0721</a></td>
+  <td><a href="https://github.com/kkmjj0721/ros2_control_6_dof_arm_rcm_control.git">ros2_control_6_dof_arm_rcm_control</a></td>
 </tr>
 </table>
 
