@@ -51,7 +51,7 @@
   <!-- GitHub 详细数据概览卡片 -->
   <img src="https://github-readme-stats.vercel.app/api?username=kkmjj0721&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <!-- 最常使用语言图表 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmjj0721&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </div>
 
 <br/>
@@ -85,7 +85,7 @@
 
 <!-- 底部访客统计 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=kkmjj0721&label=Profile%20Views&color=bd93f9&style=flat-square" alt="Visitor Count" />
 </div>
 
 ---
