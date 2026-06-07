@@ -12,7 +12,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAF3E0,50:DEB887,100:C9A87C&height=200&section=header&text=Welcome%20to%20my%20Lab&fontSize=46&fontColor=6B4423&animation=fadeIn&fontAlignY=38&desc=Quadruped%20·%20Manipulator%20·%20Control&descAlignY=60&descSize=18" width="100%"/>
+<img width="1280" height="536" alt="6251361f897ca13af6a9e5e48bb8df17_720" src="https://github.com/user-attachments/assets/0a5e7524-876b-4ba3-a064-d7745655ded2" />
 
 <!-- ============ 打字机动效 ============ -->
 <a href="https://github.com/kkmjj0721">
