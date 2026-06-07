@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.host.zzal.top/?username=kkmjj0721&theme=warm&column=7&margin-w=5&margin-h=5&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/%F0%9F%A5%AA%20Hi%2C%20I'm%20kkmjj0721-Learning%20Robotics%20Control%20%F0%9F%A5%AA-bfa668?style=for-the-badge&labelColor=fdfbf7" width="100%" />
 </div>
 
 <br/>
@@ -42,24 +42,18 @@
 
 ## 📂 个人作品集 (Portfolio)
 
-* 📝 [Learning-Notes](https://github.com/kkmj0721) — 我的机器人与强化学习踩坑笔记
-* 🤖 [Simulation-Labs](https://github.com/kkmj0721) — 仿真环境搭建与基础算法练习
-* 🛠️ [ROS2-Toys](https://github.com/kkmj0721) — 一些刚开始跑的 ROS 2 小节点与通信测试
+* 📝 [Learning-Notes](https://github.com/kkmjj0721) — 我的机器人与强化学习踩坑笔记
+* 🤖 [Simulation-Labs](https://github.com/kkmjj0721) — 仿真环境搭建与基础算法练习
+* 🛠️ [ROS2-Toys](https://github.com/kkmjj0721) — 一些刚开始跑的 ROS 2 小节点与通信测试
 
 ---
 
-## 📊 GitHub Stats & Active
+## 📈 My GitHub Green Wall
 
 <div align="center">
-  <img src="https://github-readme-stats.host.zzal.top/api?username=kkmjj0721&show_icons=true&bg_color=fdfbf7&title_color=bfa668&text_color=57606a&icon_color=f4be41&border_color=ebdcb9&hide_border=false&count_private=true" alt="GitHub Stats" height="150px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.host.zzal.top/api/top-langs/?username=kkmjj0721&layout=compact&bg_color=fdfbf7&title_color=bfa668&text_color=57606a&border_color=ebdcb9&hide_border=false" alt="Top Languages" height="150px" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmjj0721&theme=github-light&bg_color=fdfbf7&color=bfa668&line=bfa668&point=f4be41&area=true&hide_border=false" alt="GitHub Activity Graph" width="100%" />
+  <a href="https://github.com/kkmjj0721">
+    <img src="https://ghchart.rshah.org/bfa668/kkmj0721" alt="kkmjj0721's Yellow-Gold Contribution Chart" width="100%" />
+  </a>
 </div>
 
 ---
@@ -68,7 +62,7 @@
 
 <p align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25px"/></a>
-  <a href="mailto:2171670754@qq.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25px"/></a>
+  <a href="mailto:your_email@example.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25px"/></a>
 </p>
 
 <div align="center">
