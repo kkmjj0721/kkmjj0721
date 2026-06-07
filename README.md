@@ -19,10 +19,9 @@
 
 <br/>
 
-<!-- 🏆 GitHub 成就奖杯 -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kkmjj0721&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://wsrv.nl/?url=github-profile-trophy.vercel.app/?username=kkmjj0721&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
 </div>
 
