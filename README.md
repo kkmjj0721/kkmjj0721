@@ -49,7 +49,7 @@
 
 <div align="center">
   <!-- GitHub 详细数据概览卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkmjj0721&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <!-- 最常使用语言图表 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </div>
@@ -58,14 +58,14 @@
 
 <!-- 📈 动态代码活跃度折线图 (新增，使用 Dracula 主题色) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub用户名&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmjj0721&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true" width="98%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <!-- 🔥 连续打卡活跃度统计 (新增) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=dracula&hide_border=true" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkmjj0721&theme=dracula&hide_border=true" width="98%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -75,9 +75,9 @@
 <!-- 这个虽然不用注册第三方，但需要在你自己的仓库里配置 GitHub Actions 才能生成图片 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
