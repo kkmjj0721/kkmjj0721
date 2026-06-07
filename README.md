@@ -141,18 +141,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkmjj0721&bg_color=FAF3E0&color=6B4423&line=C9A87C&point=DEB887&area=true&area_color=DEB887&hide_border=true&custom_title=Contribution%20Heartbeat" width="96%" alt="activity"/>
 </div>
 
-
-<!--
-  ============ 贡献蛇 (默认隐藏) ============
-  需要先建好 .github/workflows/snake.yml 并手动跑一次 Action 才有图.
-  跑成功后,把下面 4 行 HTML 注释符号 (<!-- 和 -->) 删掉即可显示.
-
 <div align="center">
   <img alt="snake" src="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/output/github-contribution-grid-snake.svg" width="96%"/>
 </div>
 
-
--->
 
 <!-- ============ 底部 wave ============ -->
 
