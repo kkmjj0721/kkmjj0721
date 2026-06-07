@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/fc1c6e23-7be0-439c-b11c-d7779e60aebb" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
