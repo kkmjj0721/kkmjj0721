@@ -142,13 +142,6 @@
   <img alt="snake" src="https://raw.githubusercontent.com/kkmjj0721/kkmjj0721/output/github-contribution-grid-snake.svg" width="96%"/>
 </div>
 
-
-<!-- ============ 名言警句 ============ -->
-
-## 💭 Daily Quote
-
-> *"In robotics, the hard problem is not making it move — it's making it move like it means it."*
-
 <!-- ============ 底部 wave ============ -->
 
 <div align="center">
