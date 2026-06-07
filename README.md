@@ -122,17 +122,6 @@
 
 </div>
 
-<!-- ============ 奖杯墙 ============ -->
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <a href="https://github.com/kkmjj0721">
-    <img src="https://github-profile-trophy-five-lovat.vercel.app/?username=kkmjj0721&theme=flat&no-frame=true&margin-w=8&margin-h=8&row=1&column=7&v=888&t=999" alt="trophy"/>
-  </a>
-</div>
-
-
 <!-- ============ 贡献活动图 (折线) ============ -->
 
 ## 📈 Contribution Graph
