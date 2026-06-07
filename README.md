@@ -1,77 +1,53 @@
-<!-- 顶部横幅图片：你可以替换成任何你喜欢的长条形风景图、动漫图或代码截图 -->
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" alt="Profile Banner" width="100%" style="border-radius: 15px;" />
+<img width="1280" height="720" alt="28ca344d17a5b4b56924d1f2faa285bf_720" src="https://github.com/user-attachments/assets/5a18f8c3-d61a-425f-8e7f-04077edca9da" /><div align="center">
+  <!-- 这里放你的顶部大图。我先用了一张赛博风格的占位图。
+       你可以直接把你想用的图片（比如图2那种二次元图片）拖拽到 GitHub 的任何输入框里，
+       它会生成一个以 https://github.com/user-attachments/ 开头的链接，替换掉下面的 src 即可 -->
+  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius: 10px;" />
 </div>
 
-<h1 align="center">👋 Hello World, I'm [你的名字]</h1>
-<h3 align="center">Robotics Enthusiast | Embedded Systems | AI Developer</h3>
+<div align="center">
+  <br/>
+  <!-- 参考图1的粉色系动态打字特效 -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=550&lines=[你的名字];C%2B%2B+%26+Python+Developer;ROS2+%26+Robotics+Engineer;STM32+Embedded+Developer;Reinforcement+Learning" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- 参考图1的社交/链接徽章，统一样式和颜色 -->
+  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+  <a href="你的知乎或B站链接"><img src="https://img.shields.io/badge/Bilibili-F72585?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="你的个人博客链接"><img src="https://img.shields.io/badge/Blog-F72585?style=for-the-badge&logo=readme&logoColor=white" /></a>
+</div>
 
 <br/>
 
 <div align="center">
-  <!-- 动态打字效果，内容已替换为与你技术栈相关 -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=C%2B%2B+%26+Python+Developer;ROS2+&+Robotics+Engineer;STM32+Embedded+Developer;Reinforcement+Learning+Explorer" alt="Typing SVG" />
-  </a>
+  <!-- 参考图2的 GitHub 统计面板，使用了完全一致的 radical 主题（暗黑底色+粉/红/亮蓝边框） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
----
-
-### 🚀 关于我 (About Me)
-
-- 🤖 我专注于 **机器人控制、嵌入式系统与强化学习的结合**
-- 🔭 目前正在开发 **[你正在做的硬件或软件项目名称]**
-- 🌱 目前正在深入研究 **[例如：ROS2 Nav2 导航算法、深度强化学习控制策略]**
-- ⚡ 极客日常: **[例如：一半时间在调代码，另一半时间在烧录固件]**
-- 📫 联系方式: **[你的邮箱]**
-
----
-
-### 🛠️ 核心技术栈 (Tech Stack)
+<br/>
 
 <div align="center">
-  <br/>
-  <!-- 嵌入式与硬件 -->
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <h3>⚡ 技术栈 & 个性标签</h3>
+  <!-- 技能徽章 -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/RL-FF6F00?style=flat-square&logo=openai&logoColor=white" />
   <br/><br/>
-  <!-- 编程语言 -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <br/><br/>
-  <!-- AI 与强化学习 -->
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="RL" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <br/>
+  <!-- 参考图2的个性化文字小标签 -->
+  <img src="https://img.shields.io/badge/状态-写代码-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/爱好-机器人-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/性格-开朗-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/属性-技术宅-purple?style=flat-square" />
 </div>
 
----
-
-### 📸 我的项目展示 (Project Gallery)
-
-<!-- 这里是一个 2x2 的表格，专门用来放你的项目图片（如实物图、仿真截图等） -->
-| [项目一名称：例如 机械臂抓取控制] | [项目二名称：例如 自动驾驶小车] |
-| :---: | :---: |
-| <a href="你的项目一仓库链接"><img src="https://via.placeholder.com/400x250.png?text=Your+Project+Image+1" alt="Project 1" width="100%"></a> | <a href="你的项目二仓库链接"><img src="https://via.placeholder.com/400x250.png?text=Your+Project+Image+2" alt="Project 2" width="100%"></a> |
-| 这里写一句简短的项目描述，比如：基于 ROS2 和 RL 的强化学习机械臂。 | 这里写一句简短的项目描述，比如：基于 STM32 的循迹避障智能车底层控制。 |
-
----
-
-### 📈 GitHub 活跃度 (Stats)
-
-<!-- 记住：全局替换 YOUR_GITHUB_USERNAME 为你的账号名。这里换成了更有科技感的透明暗色主题 (tokyonight) -->
+<br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
+  <!-- 底部访客统计 -->
+  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
 </div>
