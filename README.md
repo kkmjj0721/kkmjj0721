@@ -4,13 +4,6 @@
 </div>
 
 <div align="center">
-  <br/>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=[你的名字];C%2B%2B+%26+Python+Developer;ROS2+%26+Robotics+Engineer;STM32+Embedded+Developer;Reinforcement+Learning" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
   <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
   <a href="你的知乎或B站链接"><img src="https://img.shields.io/badge/Bilibili-F72585?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
   <a href="你的个人博客链接"><img src="https://img.shields.io/badge/Blog-F72585?style=for-the-badge&logo=readme&logoColor=white" /></a>
