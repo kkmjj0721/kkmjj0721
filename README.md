@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/ROS-DEB887?style=flat-square&logo=ros&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Mujoco-C9A87C?style=flat-square&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Isaac%20Gym-C9A87C?style=flat-square&logo=nvidia&logoColor=6B4423"/>
-<img src="https://img.shields.io/badge/Gazebo-C9A87C?style=flat-square&logoColor=6B4423"/>
+<img src="https://img.shields.io/badge/Mujoco-C9A87C?style=flat-square&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Linux-C9A87C?style=flat-square&logo=linux&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Git-FAEBD7?style=flat-square&logo=git&logoColor=6B4423"/>
 <img src="https://img.shields.io/badge/Docker-FAEBD7?style=flat-square&logo=docker&logoColor=6B4423"/>
